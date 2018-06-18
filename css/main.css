@@ -1,0 +1,22 @@
+body {
+  padding: 0; margin: 0;
+  background: #1a1e24;
+  width: 100%;
+  min-height: 100vh;
+  display: -webkit-box; display: -ms-flexbox; display: flex;
+  -box-align: center; -ms-flex-align: center; align-items: center;
+  -box-pack: center; -ms-flex-pack: center; justify-content: center;
+  -font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;
+}
+
+.terminal-info {
+  color: #bbb;
+}
+
+.terminal-program-output {
+  color: #ddd;
+  font-size: 13px;
+  line-height: 6px;
+  font-family: Consolas,monaco,monospace; 
+  white-space: pre;
+}
