@@ -18,5 +18,5 @@ body {
   font-size: 13px;
   line-height: 6px;
   font-family: Consolas,monaco,monospace; 
-  white-space: pre;
+  white-space: pre-line;
 }
